@@ -6,4 +6,5 @@ this repo is for learning Typescript.
 > nothing2
 > nothing3
 > no
+> no2
 
