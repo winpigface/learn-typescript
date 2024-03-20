@@ -1,13 +1,14 @@
 # Typescript learning
+
 this repo is for learning Typescript.
 
 ## Note
-> nothing
-> nothing2
-> nothing3
-> no
-> no2
-> no 3
-> no 4
 
+## git commands
 
+1. `git init`
+2. `git clone <url>`
+
+## Node JS
+
+1. `npm init -y`
