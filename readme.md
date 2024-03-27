@@ -12,3 +12,6 @@ this repo is for learning Typescript.
 ## Node JS
 
 1. `npm init -y`
+2. `npm i -g ts-node`
+## Input from console
+- `npm i readline-sync`
