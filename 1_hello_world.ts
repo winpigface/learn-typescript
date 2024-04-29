@@ -10,3 +10,5 @@ console.log("Hello");
 console.log("Hello")
 console.log("Hello")
 console.log("Hello")
+console.log("Test lazygit")
+console.log("Hello World")
